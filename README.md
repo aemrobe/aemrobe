@@ -1,6 +1,19 @@
-### Hi there 👋
 
-I'am Aemro from Ethiopioa. I am self taught developer and do frontend development using html css and javascript. currently I have finsihed the complete javascript course by jonas schmetmann and I am looking to do some projects which involve heavy javascripts. I really enjoy learning and I am planning to learn react and other tools which help me to do frontend development. you can checkout my twitter to see what I have been up to this journey at twitter.com/Aemro112 or my linkedin at linkedin.com/in/aemro-bekalu-71783b215/.
+### Hi there 👋, my name is Aemro
+#### aspring frontend developer
+![aspring frontend developer]((![development] (https://www.pexels.com/photo/person-encoding-in-laptop-574071/)))
+
+I'am Aemro from Ethiopioa. I am self taught developer and do frontend development using html css and javascript. currently I have completed the javascript course which I was following and I am looking to do some projects which involve  javascripts. 
+
+Skills: JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: ([twitter] (twitter.com/Aemro112)) ([linkedin](linkedin.com/in/aemro-bekalu-71783b215/)) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aemrobe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aemro112)  
+
+
 
 [![Aemro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemrobe)](https://github.com/anuraghazra/github-readme-stats)
 
