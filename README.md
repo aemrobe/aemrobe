@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am Aemro from Ethiopioa. I am a software enginerring student and like do frontend development using html css and javascript. currently I have completed the javascript course which I was following and I am looking to do some projects which involve javascript. I reall enjoy learning and I am planning to learn react and other tools which helps me to frontend development.
+I am Aemro from Ethiopioa. I am a software enginerring student and like do frontend development using html css and javascript. currently I have completed the javascript course which I was following and I am looking to do some projects which involve javascript. I reall enjoy learning and I am planning to learn react and other tools which helps me to do frontend development.
 
 ## Skills and Experience
 . 💻 JS / HTML / CSS
