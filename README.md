@@ -7,7 +7,8 @@ I'am Aemro from Ethiopioa. I am self taught developer and do frontend developmen
 . 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on frontend mentor projects. 
-##📫 How to reach me: 
+
+## How to reach me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aemrobe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aemro112)  
 
 
