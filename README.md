@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am Aemro from Ethiopioa. I am a  graduated software engineer and I like to do frontend development using html css and javascript. currently I have completed the javascript course which I was following and Ihave done a couple of projects which involve javascript. I reall enjoy learning and I am learning react  which helps me to do frontend development.
+I am Aemro from Ethiopioa. I am a  graduated software engineer and I like to do frontend development. currently I have learned javascript and done nice projects using it. I really enjoy learning and building stuff and Now I am learning react  which helps me to do frontend development.
 
 ## Skills and Experience
 . 💻 JS / HTML / CSS
