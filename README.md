@@ -1,6 +1,6 @@
 # Hi there, I'm Amro Bekalu! 👋 🇪🇹
 
-I'm a **Software Engineering Graduate** & **Frontend Developer** from Ethiopia. I specialize in building responsive, accessible, and dynamic full-stack web applications using **React, Next.js, Tailwind CSS, and Supabase**.
+I'm a **Software Engineering Graduate** & **Fullstack Developer** from Ethiopia. I specialize in building responsive, accessible, and dynamic full-stack web applications using **React, Next.js, Tailwind CSS, and Supabase**.
 
 I love translating complex design concepts into clean, performant code and continuously sharpening my craft through real-world projects.
 
