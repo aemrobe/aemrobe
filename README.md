@@ -40,6 +40,6 @@ I love translating complex design concepts into clean, performant code and conti
 ---
 
 ### 📬 Connect with Me
-- **Twitter:** [Your Twitter Profile]([https://x.com](https://x.com/Aemro112)
+- **Twitter:** [Twitter]([https://x.com](https://x.com/Aemro112)
 
 
